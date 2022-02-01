@@ -5,6 +5,7 @@ import Albums from "./Components/Albums";
 import App from "./App";
 import Navbar from "./Navbar";
 
+
 const Routes = () => {
   return (
     <div>
