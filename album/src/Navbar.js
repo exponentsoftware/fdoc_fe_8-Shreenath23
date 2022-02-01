@@ -9,9 +9,9 @@ const Navbar = () => {
         <div>
           <Link to="/form">Add Album</Link>
         </div>
-        <div>
+         <div>
           <Link to="/albums">Albums</Link>
-        </div>
+         </div>
       </div>
     </div>
   );
